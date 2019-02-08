@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Finite_State_Machine_Feature_1.0.0.201802172224.jar" id="Finite_State_Machine_Feature" version="1.0.0.201802172224">
+      <category name="JIVE"/>
+   </feature>
+   <category-def name="JIVE" label="JIVE"/>
+</site>
